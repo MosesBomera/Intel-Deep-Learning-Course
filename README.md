@@ -1,2 +1,2 @@
 # dl
-Intel Deep Learning Classes
+My Solutions to Intel's Deep Learning Exercises
